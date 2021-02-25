@@ -206,5 +206,25 @@ namespace ServerGUI
             }
             
         }
+
+        private void ghublink(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/fengye1003/Xhgd-MCLauncher");
+        }
+
+        private void weblink(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://eachother.tech");
+        }
+
+        private void fbooklink(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://www.facebook.com/code.fengye"); 
+        }
+
+        private void qqlink(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://jq.qq.com/?_wv=1027&k=stOKb068");  
+        }
     }
 }

@@ -18,7 +18,7 @@
                     <TranslateTransform/>
                 </TransformGroup>
             </TextBlock.RenderTransform><Run Text="By 相互科技"/><Run Text=" v.1.2.1.0"/></TextBlock>
-        <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="108" Margin="78,29,0,0" VerticalAlignment="Top" Width="111" Source="server-icon.png"/>
+        <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="108" Margin="78,29,0,0" VerticalAlignment="Top" Width="111" Source="xhgd.png"/>
         <TextBlock x:Name="nameblockfucku" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="164" FontSize="36" Margin="170,186,620,0" FontWeight="Bold" TextAlignment="Center" TextDecorations="{x:Null}" Text="玩家名称" FontFamily="Miriam Mono CLM"/>
         <TextBox x:Name="name1" HorizontalAlignment="Left" Height="45" Margin="374,180,0,0" TextWrapping="Wrap" Text="Steve" VerticalAlignment="Top" Width="230" FontSize="36" RenderTransformOrigin="0.483,1.691" />
         <Button Content="保存设置" HorizontalAlignment="Left" Height="50" Margin="663,180,0,0" VerticalAlignment="Top" Width="168" FontSize="36" Click="save" RenderTransformOrigin="0.648,-5.606">

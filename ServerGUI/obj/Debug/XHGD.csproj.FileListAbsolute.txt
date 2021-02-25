@@ -1,0 +1,34 @@
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.exe.config
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.exe
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.pdb
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.g.resources
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XhgdMinecraft.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.exe
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.pdb
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Window1.g.cs
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器_MarkupCompile.lref
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Window1.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.exe.config
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.exe
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\相互国度启动器.pdb
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MainWindow.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Window1.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\App.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器_MarkupCompile.cache
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器_MarkupCompile.lref
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Window1.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.g.resources
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XhgdMinecraft.Properties.Resources.resources
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.exe
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.pdb

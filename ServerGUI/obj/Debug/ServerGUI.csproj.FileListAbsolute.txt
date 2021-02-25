@@ -1,0 +1,18 @@
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.g.resources
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\Window1.baml
+d:\documents\visual studio 2013\Projects\ServerGUI\ServerGUI\obj\Debug\Window1.g.cs
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\bin\Debug\ServerGUI.exe.config
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\ServerGUI.exe
+D:\Documents\Visual Studio 2013\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\ServerGUI.pdb

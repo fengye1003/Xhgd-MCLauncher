@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHGD", "ServerGUI\XHGD.csproj", "{D362ED35-6ADB-4F05-98FD-5388E105C66E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icon", "icon", "{E7B06291-B206-4033-A069-9E4676A49A53}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\backup.PNG = ..\..\..\..\Downloads\backup.PNG
+		..\..\..\..\Downloads\fbooklogo.PNG = ..\..\..\..\Downloads\fbooklogo.PNG
+		..\..\..\..\Downloads\githublogo.PNG = ..\..\..\..\Downloads\githublogo.PNG
+		..\..\..\..\Downloads\qqlogo.PNG = ..\..\..\..\Downloads\qqlogo.PNG
+		E:\Server\Server\server-icon.png = E:\Server\Server\server-icon.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EASkins", "..\..\..\..\Desktop\Wpf\EASkins\EASkins\EASkins.csproj", "{42E7AE2F-91E7-4031-BAB5-7E74373B1D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D362ED35-6ADB-4F05-98FD-5388E105C66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D362ED35-6ADB-4F05-98FD-5388E105C66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D362ED35-6ADB-4F05-98FD-5388E105C66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D362ED35-6ADB-4F05-98FD-5388E105C66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E7AE2F-91E7-4031-BAB5-7E74373B1D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E7AE2F-91E7-4031-BAB5-7E74373B1D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E7AE2F-91E7-4031-BAB5-7E74373B1D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E7AE2F-91E7-4031-BAB5-7E74373B1D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FFD3BA-2B9B-4ED7-AD71-A257BEFC4781}
+	EndGlobalSection
+EndGlobal

@@ -32,3 +32,11 @@ C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\Serve
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\XHGD.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.exe
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\相互国度启动器.pdb
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Page1.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Page1.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\About.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Bedrock.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MenuPage.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\About.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Bedrock.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MenuPage.baml

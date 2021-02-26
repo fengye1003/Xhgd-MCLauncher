@@ -226,5 +226,12 @@ namespace ServerGUI
         {
             System.Diagnostics.Process.Start("https://jq.qq.com/?_wv=1027&k=stOKb068");  
         }
+
+        private void menu(object sender, RoutedEventArgs e)
+        {
+            XhgdMinecraft.MenuPage sw = new XhgdMinecraft.MenuPage();
+            sw.Show();
+            this.Close();
+        }
     }
 }

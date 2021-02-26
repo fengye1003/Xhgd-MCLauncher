@@ -1,0 +1,76 @@
+﻿<Window x:Class="XhgdMinecraft.MenuPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XhgdMinecraft"
+        mc:Ignorable="d"
+        Title="MenuPage" Height="621" Width="960" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="153" VerticalAlignment="Top" Width="954" Source="backup.PNG" Stretch="Fill" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="box" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="73" Width="612" FontSize="48" Margin="219,47,123,0" FontWeight="Bold" TextAlignment="Center" TextDecorations="{x:Null}"><Run Text="相互国度启动器"/><Run Text="｜菜单"/></TextBlock>
+        <TextBlock TextWrapping="Wrap" Margin="743,550,35,21" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.207"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="By 相互科技"/><Run Text=" v.1.2.3.0"/></TextBlock>
+        <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="108" Margin="78,29,0,0" VerticalAlignment="Top" Width="111" Source="xhgd.png"/>
+        <Grid Margin="337,501,544,0">
+
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5" Background="SkyBlue" BorderThickness="0" Click="ghublink">
+
+                <Button.Content>
+                    <StackPanel Orientation="Vertical"/>
+                </Button.Content>
+            </Button>
+        </Grid>
+        <Grid Margin="557,501,318,0">
+
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5" Background="SkyBlue" BorderThickness="0" Click="qqlink">
+
+                <StackPanel Orientation="Vertical"/>
+            </Button>
+        </Grid>
+        <Grid Margin="485,501,397,0">
+
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5" Background="SkyBlue" BorderThickness="0" Click="fbooklink">
+
+                <StackPanel Orientation="Vertical"/>
+            </Button>
+        </Grid>
+        
+        <Grid x:Name="MyGrid" HorizontalAlignment="Left" Height="593" VerticalAlignment="Top" Width="954">
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" BorderThickness="0" Click="java" Height="183" Width="152" Margin="61,180,0,0">
+
+                <StackPanel Orientation="Vertical">
+
+                    <TextBlock Text="Java版游戏" HorizontalAlignment="Center" FontSize="18" />
+                    <Image Stretch="Fill" Source="MCJava.JPG" Width="94" Height="120" RenderTransformOrigin="0.336,0.317" />
+                </StackPanel>
+            </Button>
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" BorderThickness="0" Click="bedrock" Height="183" Width="152" Margin="259,180,0,0">
+
+                <StackPanel Orientation="Vertical">
+
+                    <TextBlock HorizontalAlignment="Center" FontSize="18" ><Run Text="基岩"/><Run Text="版游戏"/></TextBlock>
+                    <Image Stretch="Fill" Source="Be.PNG" Width="94" Height="120" RenderTransformOrigin="0.336,0.317" />
+                </StackPanel>
+            </Button>
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" BorderThickness="0" Click="aboutpage" Height="183" Width="152" Margin="472,180,0,0">
+
+                <StackPanel Orientation="Vertical">
+
+                    <TextBlock Text="关于启动器" HorizontalAlignment="Center" FontSize="18" />
+                    <Image Stretch="Fill" Source="aboutlogo.png" Width="94" Height="120" RenderTransformOrigin="0.336,0.317" />
+                </StackPanel>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>

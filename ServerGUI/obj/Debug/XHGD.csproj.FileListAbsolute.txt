@@ -40,3 +40,5 @@ C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\Serve
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\About.baml
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\Bedrock.baml
 C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\MenuPage.baml
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\uninstall.g.cs
+C:\Users\lenovo\OneDrive - for personal\文档\Projects\ServerGUI - 副本\ServerGUI\obj\Debug\uninstall.baml

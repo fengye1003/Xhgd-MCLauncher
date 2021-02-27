@@ -19,7 +19,7 @@
                     <RotateTransform Angle="-1.207"/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </TextBlock.RenderTransform><Run Text="By 相互科技"/><Run Text=" v.1.2.3.0"/></TextBlock>
+            </TextBlock.RenderTransform><Run Text="By 相互科技"/><Run Text=" v.1.2.4.0"/></TextBlock>
         <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="108" Margin="78,29,0,0" VerticalAlignment="Top" Width="111" Source="xhgd.png"/>
         <Grid Margin="337,501,544,0">
 
@@ -68,6 +68,14 @@
 
                     <TextBlock Text="关于启动器" HorizontalAlignment="Center" FontSize="18" />
                     <Image Stretch="Fill" Source="aboutlogo.png" Width="94" Height="120" RenderTransformOrigin="0.336,0.317" />
+                </StackPanel>
+            </Button>
+            <Button  HorizontalAlignment="Left"  VerticalAlignment="Top" BorderThickness="0" Click="uninstall" Height="183" Width="152" Margin="680,180,0,0">
+
+                <StackPanel Orientation="Vertical">
+
+                    <TextBlock Text="卸载选项" HorizontalAlignment="Center" FontSize="18" />
+                    <Image Stretch="Fill" Source="uninstlogo.png" Width="94" Height="120" RenderTransformOrigin="0.336,0.317" />
                 </StackPanel>
             </Button>
         </Grid>

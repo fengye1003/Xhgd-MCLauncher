@@ -11,39 +11,18 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace XhgdMinecraft
 {
     /// <summary>
-    /// MenuPage.xaml 的交互逻辑
+    /// uninstall.xaml 的交互逻辑
     /// </summary>
-    public partial class MenuPage : Window
+    public partial class uninstall : Window
     {
-        public MenuPage()
+        public uninstall()
         {
             InitializeComponent();
-        }
-
-        private void java(object sender, RoutedEventArgs e)
-        {
-            ServerGUI.MainWindow sw = new ServerGUI.MainWindow();
-            sw.Show();
-            this.Close();
-        }
-
-        private void bedrock(object sender, RoutedEventArgs e)
-        {
-            XhgdMinecraft.Bedrock sw = new Bedrock ();
-            sw.Show();
-            this.Close();
-
-        }
-
-        private void aboutpage(object sender, RoutedEventArgs e)
-        {
-            XhgdMinecraft.About sw = new XhgdMinecraft.About();
-            sw.Show(); 
-            this.Close();
         }
         private void ghublink(object sender, RoutedEventArgs e)
         {
@@ -64,12 +43,33 @@ namespace XhgdMinecraft
         {
             System.Diagnostics.Process.Start("https://jq.qq.com/?_wv=1027&k=stOKb068");
         }
-
-        private void uninstall(object sender, RoutedEventArgs e)
+        private void menu(object sender, RoutedEventArgs e)
         {
-            XhgdMinecraft.uninstall sw = new uninstall();
+            XhgdMinecraft.MenuPage sw = new XhgdMinecraft.MenuPage();
             sw.Show();
             this.Close();
+        }
+
+        private void deljg(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("即将卸载本地游戏！请备份好文件！");
+            System.IO.DirectoryInfo di = new System.IO.DirectoryInfo(".\\.minecraft\\");
+            di.Delete(true);
+            File.Delete(".\\rapo.rar");
+        }
+
+        private void delbe(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("即将删除本地基岩版安装包。");
+            File.Delete(".\\MCUWP.Appx");
+        }
+
+        private void uncore(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("即将卸载运行库与核心JRE！这可能让游戏脚本无法运行。");
+            System.IO.DirectoryInfo di = new System.IO.DirectoryInfo(".\\jre\\");
+            di.Delete(true);
+            File.Delete(".\\unrar.exe");
         }
     }
 }
